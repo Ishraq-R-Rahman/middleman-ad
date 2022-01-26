@@ -1,0 +1,624 @@
+[
+  {
+    "description": [
+      "Origin: India \r",
+      "Manufacturer: Unilever ltd.\r",
+      "Ponds’ pure white facial foam contains activated carbon charcoal. This deep cleanser extracts out pollutants and impurities, leaving skin so clean and pure, it glows!\r",
+      "Ingredients: Myristic acid, glycerine, palmitic acid, stearic acid, charcoal powder, carbone perfume, water, propylene glycol, glycerol, potassium hydroxide, lauric acid,disodium EDTA, niacinamide."
+    ],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533064",
+    "name": "Pond's Face Wash Pure White",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-face-wash-pure-white-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44188&q=low&v=1&w=600",
+    "slug": "pond's-face-wash-pure-white",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533065",
+    "name": "Ponds Men Facewash Energy Charge",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-men-facewash-energy-charge-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44185&q=low&v=1&w=600",
+    "slug": "ponds-men-facewash-energy-charge",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533066",
+    "name": "Pond's Day Cream White Beauty",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-day-cream-white-beauty-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44604&q=low&v=1&w=600",
+    "slug": "pond's-day-cream-white-beauty",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533067",
+    "name": "Pond's Face Wash Daily",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-face-wash-daily-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44200&q=low&v=1&w=600",
+    "slug": "pond's-face-wash-daily",
+    "__v": 0
+  },
+  {
+    "description": [
+      "DOVE White Beauty Bar combines a gentle cleansing formula with DOVE’s signature ¼ moisturizing cream to give you softer, smoother and more glowing skin. The mild cleansers help your skin to retain its natural moisture rather than stripping it away. This DOVE bar even helps to replenish nutrients that are lost during the cleansing process – where a regular soap bar might leave your skin feeling dry and tight, a DOVE White Bar leaves it feeling soft and smooth. It’s not a soap – it’s a beauty bar Washing with regular soap can cause skin to feel dry, tight and irritated as some cleansing ingredients strip skin of essential nutrients. What makes DOVE different? Its gentle cleansers help your skin retain its natural moisture and its mild formula is kind to your skin. DOVE is the No.1 Brand recommended by dermatologists in India. For best results, lather up your DOVE Beauty Bar and massage the smooth, creamy lather over your face and body before rinsing thoroughly. For soft, smooth hands, you can also enjoy regular hand-washing throughout the day with your DOVE bar. Soap may dry out your hands, but the classic moisturizing formula of DOVE bars will leave skin softer, smoother and more glowing."
+    ],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533068",
+    "name": "Dove Beauty Bar White",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-beauty-bar-white-135-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38000&q=low&v=1&w=600",
+    "slug": "dove-beauty-bar-white",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533069",
+    "name": "Ponds Men Facewash Acne Solution",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-men-facewash-acne-solution-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44187&q=low&v=1&w=600",
+    "slug": "ponds-men-facewash-acne-solution",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853306a",
+    "name": "Ponds Men Facewash Lightning Oil Clear",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-men-facewash-lightning-oil-clear-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44208&q=low&v=1&w=600",
+    "slug": "ponds-men-facewash-lightning-oil-clear",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853306b",
+    "name": "Ponds Men Facewash Power Clear",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-men-facewash-power-clear-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50472&q=low&v=1&w=600",
+    "slug": "ponds-men-facewash-power-clear",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853306c",
+    "name": "Ponds Face Wash Daily",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-face-wash-daily-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44199&q=low&v=1&w=600",
+    "slug": "ponds-face-wash-daily",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853306d",
+    "name": "Pond's Face Wash White Beauty",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-face-wash-white-beauty-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44194&q=low&v=1&w=600",
+    "slug": "pond's-face-wash-white-beauty",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853306f",
+    "name": "Ponds Dreamflower Talc Powder",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61444&q=low&v=1&w=600",
+    "slug": "ponds-dreamflower-talc-powder",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853306e",
+    "name": "Ponds Face Wash Scrub",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-face-wash-scrub-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44206&q=low&v=1&w=600",
+    "slug": "ponds-face-wash-scrub",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533071",
+    "name": "Dove Men Shampoo Thick & Strong",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50067&q=low&v=1&w=600",
+    "slug": "dove-men-shampoo-thick-and-strong",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533070",
+    "name": "Ponds Face Wash White Beauty",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-face-wash-white-beauty-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44205&q=low&v=1&w=600",
+    "slug": "ponds-face-wash-white-beauty",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533072",
+    "name": "Dove Shampoo Healthy Growth",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-shampoo-healthy-growth-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59471&q=low&v=1&w=600",
+    "slug": "dove-shampoo-healthy-growth",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533073",
+    "name": "Dove Men Shampoo Complete Care 2 in 1 Formula",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50066&q=low&v=1&w=600",
+    "slug": "dove-men-shampoo-complete-care-2-in-1-formula",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533074",
+    "name": "Dove Nourishing Secrets Body Lotion",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-nourishing-secrets-body-lotion-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52949&q=best&v=1&w=600",
+    "slug": "dove-nourishing-secrets-body-lotion",
+    "__v": 0
+  },
+  {
+    "description": ["Origin: United Kingdom"],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533075",
+    "name": "Dove Baby Rich Moisture Lotion",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-baby-rich-moisture-lotion-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69445&q=low&v=1&w=600",
+    "slug": "dove-baby-rich-moisture-lotion",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533076",
+    "name": "Dove Conditioner Intense Repair",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-conditioner-intense-repair-175-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D52038&q=low&v=1&w=600",
+    "slug": "dove-conditioner-intense-repair",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533077",
+    "name": "Dove Intensive Body Lotion",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-intensive-body-lotion-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D53374&q=best&v=1&w=600",
+    "slug": "dove-intensive-body-lotion",
+    "__v": 0
+  },
+  {
+    "description": ["Origin: England"],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533078",
+    "name": "Dove Beauty Cream",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-beauty-cream-75-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D32013&q=low&v=1&w=600",
+    "slug": "dove-beauty-cream",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853307a",
+    "name": "Dove Go Fresh Roll On",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-go-fresh-roll-on-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54417&q=low&v=1&w=600",
+    "slug": "dove-go-fresh-roll-on",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853307b",
+    "name": "Dove Intensive Cream",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48168&q=low&v=1&w=600",
+    "slug": "dove-intensive-cream",
+    "__v": 0
+  },
+  {
+    "description": ["Origin: United Kingdom"],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533079",
+    "name": "Dove Baby Sensitive Moisture Lotion",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-baby-sensitive-moisture-lotion-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69444&q=low&v=1&w=600",
+    "slug": "dove-baby-sensitive-moisture-lotion",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853307c",
+    "name": "Tresemmé Shampoo Botanique Nourish & Replenish (Free Dove Beauty Cream 150 ml)",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/tresemme-shampoo-botanique-nourish-replenish-free-dove-beauty-cream-150-ml-580-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71177&q=low&v=1&w=600",
+    "slug": "tresemme-shampoo-botanique-nourish-and-replenish-(free-dove-beauty-cream-150-ml)",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853307d",
+    "name": "Dove Silky Cream",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-silky-cream-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D51998&q=low&v=1&w=600",
+    "slug": "dove-silky-cream",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853307e",
+    "name": "Dove Caring Fine Silk Hand wash",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-caring-fine-silk-hand-wash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40406&q=low&v=1&w=600",
+    "slug": "dove-caring-fine-silk-hand-wash",
+    "__v": 0
+  },
+  {
+    "description": ["Origin: United Kingdom"],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853307f",
+    "name": "Dove Caring Cucumber & Green Tea Scent Hand wash",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-caring-cucumber-green-tea-scent-hand-wash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40407&q=low&v=1&w=600",
+    "slug": "dove-caring-cucumber-and-green-tea-scent-hand-wash",
+    "__v": 0
+  },
+  {
+    "description": ["Origin: United Kingdom"],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533080",
+    "name": "Dove Caring Hand Wash (UK)",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-caring-hand-wash-uk-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D40408&q=low&v=1&w=600",
+    "slug": "dove-caring-hand-wash-(uk)",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533081",
+    "name": "Dove Essential Body Lotion",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-essential-body-lotion-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D51986&q=low&v=1&w=600",
+    "slug": "dove-essential-body-lotion",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533082",
+    "name": "Dove Shampoo Hairfall Rescue",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-shampoo-hairfall-rescue-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45056&q=low&v=1&w=600",
+    "slug": "dove-shampoo-hairfall-rescue",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533083",
+    "name": "Dove Micellar Water",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-micellar-water-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44590&q=low&v=1&w=600",
+    "slug": "dove-micellar-water",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533084",
+    "name": "Dove Beauty Serum Deep Pure",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-beauty-serum-deep-pure-130-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47015&q=low&v=1&w=600",
+    "slug": "dove-beauty-serum-deep-pure",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533085",
+    "name": "Dove Facewash Beauty Serum Sensitive",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-facewash-beauty-serum-sensitive-130-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D58045&q=low&v=1&w=600",
+    "slug": "dove-facewash-beauty-serum-sensitive",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533086",
+    "name": "Dove Conditioner Oxygen Moisture",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-conditioner-oxygen-moisture-180-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50183&q=low&v=1&w=600",
+    "slug": "dove-conditioner-oxygen-moisture",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533087",
+    "name": "Dove Conditioner Environmental Defense",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-conditioner-environmental-defense-190-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50046&q=low&v=1&w=600",
+    "slug": "dove-conditioner-environmental-defense",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533088",
+    "name": "Dove Shampoo Oxygen Moisture",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-shampoo-oxygen-moisture-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65014&q=low&v=1&w=600",
+    "slug": "dove-shampoo-oxygen-moisture",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533089",
+    "name": "Dove Shampoo Environmental Defense",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-shampoo-environmental-defense-340-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45053&q=low&v=1&w=600",
+    "slug": "dove-shampoo-environmental-defense",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853308a",
+    "name": "Dove Conditioner Hairfall Rescue",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-conditioner-hairfall-rescue-180-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D50184&q=low&v=1&w=600",
+    "slug": "dove-conditioner-hairfall-rescue",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853308b",
+    "name": "Dove Original Roll On",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-original-roll-on-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D51992&q=low&v=1&w=600",
+    "slug": "dove-original-roll-on",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853308c",
+    "name": "Pond’s Vanishing Cream",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-oil-control-vanishing-cream-28-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D27572&q=low&v=1&w=600",
+    "slug": "pond's-vanishing-cream",
+    "__v": 0
+  },
+  {
+    "description": ["Get soft, glowing skin!"],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853308d",
+    "name": "Pond's Cold Cream",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-cold-cream-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D71337&q=low&v=1&w=600",
+    "slug": "pond's-cold-cream",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853308e",
+    "name": "Dove Face Wash Beauty Moisture",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-face-wash-beauty-moisture-facial-cleanser-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44201&q=low&v=1&w=600",
+    "slug": "dove-face-wash-beauty-moisture",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853308f",
+    "name": "Pond's Men Energy Charge Face Wash",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-men-energy-charge-face-wash-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D19660&q=low&v=1&w=600",
+    "slug": "pond's-men-energy-charge-face-wash",
+    "__v": 0
+  },
+  {
+    "description": [
+      "This Combo Contains:\r",
+      "Dove Hairfall Rescue Conditioner 180ml X1\r",
+      "Dove Hairfall Rescue Shampoo 180ml X 1\r"
+    ],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533090",
+    "name": "Dove Shampoo Hairfall Rescue Combo Pack",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-shampoo-hairfall-rescue-combo-pack-350-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64182&q=low&v=1&w=600",
+    "slug": "dove-shampoo-hairfall-rescue-combo-pack",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533091",
+    "name": "Dove Shampoo Intense Repair",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-shampoo-intense-repair-170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59478&q=low&v=1&w=600",
+    "slug": "dove-shampoo-intense-repair",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533092",
+    "name": "Dove Shampoo Hair Fall Rescue (7ml X 6 pcs)",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-shampoo-hair-fall-rescue-7ml-x-6-pcs-42-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61227&q=low&v=1&w=600",
+    "slug": "dove-shampoo-hair-fall-rescue-(7ml-x-6-pcs)",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533093",
+    "name": "Pond's Sandal Radiance Talc Natural Sunscreen",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-sandal-radiance-talc-natural-sunscreen-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D25739&q=low&v=1&w=600",
+    "slug": "pond's-sandal-radiance-talc-natural-sunscreen",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533094",
+    "name": "Pond's  White Beauty Combo Pack (Day Cream+Face Wash)",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-white-beauty-combo-pack-day-creamface-wash?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D44602&q=low&v=1&w=600",
+    "slug": "pond's-white-beauty-combo-pack-(day-cream+face-wash)",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533095",
+    "name": "Dove Shampoo Hair Intense Repair (7ml X 6 pcs)",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-shampoo-hair-intense-repair-7ml-x-6-pcs-42-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61228&q=low&v=1&w=600",
+    "slug": "dove-shampoo-hair-intense-repair-(7ml-x-6-pcs)",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533096",
+    "name": "Pond's Mineral Clay Mask White Beauty",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-mineral-clay-mask-white-beauty-8-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60188&q=low&v=1&w=600",
+    "slug": "pond's-mineral-clay-mask-white-beauty",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533097",
+    "name": "Dove Shampoo Oxygen Moisture (7ml X 6 pcs)",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-shampoo-oxygen-moisture-7ml-x-6-pcs-42-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61229&q=low&v=1&w=600",
+    "slug": "dove-shampoo-oxygen-moisture-(7ml-x-6-pcs)",
+    "__v": 0
+  },
+  {
+    "description": [
+      "Dove Nourishing Oil Care Shampoo is infused with Vita Oils that instantly helps tame frizzy,\r",
+      "unruly hair and, with continuous use, provide nourishment for healthier hair."
+    ],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533098",
+    "name": "Dove Shampoo Nourishing Oil Care",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-shampoo-nourishing-oil-care-340-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59472&q=low&v=1&w=600",
+    "slug": "dove-shampoo-nourishing-oil-care",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b28533099",
+    "name": "Pond's Mineral Clay Mask Pure White D-Toxx",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-mineral-clay-mask-pure-white-d-toxx-8-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60189&q=low&v=1&w=600",
+    "slug": "pond's-mineral-clay-mask-pure-white-d-toxx",
+    "__v": 0
+  },
+  {
+    "description": [
+      "This Combo Contains:\r",
+      "\r",
+      "Dove Intense Repair Shampoo 180 ml X 1 +\r",
+      "\r",
+      "Dove Intense Repair Conditioner  170 ml X 1  "
+    ],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853309a",
+    "name": "Dove Shampoo Intense Repair Combo Pack",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-shampoo-intense-repair-combo-pack-345-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D64183&q=low&v=1&w=600",
+    "slug": "dove-shampoo-intense-repair-combo-pack",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853309b",
+    "name": "Dove Shampoo Healthy Grow (7ml X 6 pcs)",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-shampoo-healthy-grow-7ml-x-6-pcs-42-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61230&q=low&v=1&w=600",
+    "slug": "dove-shampoo-healthy-grow-(7ml-x-6-pcs)",
+    "__v": 0
+  },
+  {
+    "description": [
+      "DOVE Pink Beauty Bar combines a gentle cleansing formula with DOVE’s signature ¼ moisturizing cream to give you softer, smoother and more glowing skin. The mild cleansers help your skin to retain its natural moisture rather than stripping it away. This DOVE bar even helps to replenish nutrients that are lost during the cleansing process – where a regular soap bar might leave your skin feeling dry and tight, a DOVE Pink Bar leaves it feeling soft and smooth. It’s not a soap – it’s a beauty bar Washing with regular soap can cause skin to feel dry, tight and irritated as some cleansing ingredients strip skin of essential nutrients. What makes DOVE different? Its gentle cleansers help your skin retain its natural moisture and its mild formula is kind to your skin. DOVE is the No.1 Brand recommended by dermatologists in India. For best results, lather up your DOVE Beauty Bar and massage the smooth, creamy lather over your face and body before rinsing thoroughly. For soft, smooth hands, you can also enjoy regular hand-washing throughout the day with your DOVE bar. Soap may dry out your hands, but the classic moisturizing formula of DOVE bars will leave skin softer, smoother and more glowing."
+    ],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853309c",
+    "name": "Dove Beauty Bar Pink",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-beauty-bar-pink-135-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D38016&q=low&v=1&w=600",
+    "slug": "dove-beauty-bar-pink",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853309d",
+    "name": "Ponds White Beauty Mineral Clay Instant Brightness Face Wash Foam",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-white-beauty-mineral-clay-instant-brightness-face-wash-foam-90-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60186&q=low&v=1&w=600",
+    "slug": "ponds-white-beauty-mineral-clay-instant-brightness-face-wash-foam",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853309e",
+    "name": "Ponds Pure White Mineral Clay Anti Pollution Purity Face Wash Foam",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-pure-white-mineral-clay-anti-pollution-purity-face-wash-foam-90-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60187&q=low&v=1&w=600",
+    "slug": "ponds-pure-white-mineral-clay-anti-pollution-purity-face-wash-foam",
+    "__v": 0
+  },
+  {
+    "description": [],
+    "campaigns": [],
+    "_id": "5ff355ec546f762b2853309f",
+    "name": "Ponds Day Cream Age Miracle",
+    "brand": "Pond",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/ponds-day-cream-age-miracle-25-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54982&q=low&v=1&w=600",
+    "slug": "ponds-day-cream-age-miracle",
+    "__v": 0
+  }
+]

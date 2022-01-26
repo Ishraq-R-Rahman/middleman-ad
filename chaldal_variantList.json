@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Dove Shampoo Oxygen Moisture (Free Bag)",
+    "campaigns": ["602239bc5dcf9b05b60efd12"],
+    "variantImage": "https://www.banglashoppers.com/pub/media/catalog/product/cache/07267eeaa71f8f607c59052b346f905a/d/o/dove_shampoo_oxygen_moisture_340ml.png"
+  },
+  {
+    "name": "Dove Shampoo Oxygen Moisture (7ml X 6 pcs)",
+    "campaigns": ["602239bc5dcf9b05b60efd12", "602239bc5dcf9b05b60efd13"],
+    "description": "Origin: United Kingdom",
+    "variantImage": "https://cdn.chaldal.net/_mpimage/dove-shampoo-oxygen-moisture-7ml-x-6-pcs-42-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D61229&q=low&v=1&w=600&webp=1"
+  },
+  {
+    "name": "Dove Conditioner Intense Repair 170ml",
+    "campaigns": ["602239bc5dcf9b05b60efd14"],
+    "description": ["Nourish and repair the appearance of damaged hair", "Keratin Actives help repair damage deep inside hair" ,"Hair looks healthy, strong and more beautiful" ],
+    "variantImage": "https://d3o0ecz6febi2h.cloudfront.net/product_variances/images/2020/may/8/17/14806038-aa5b-43b4-80d9-41e53e92c8ad.lg.jpg"
+  },
+  {
+    "name": "Dove Shampoo Oxygen Moisture 340ml",
+    "campaigns": ["602239bc5dcf9b05b60efd13"],
+    "description": ["Nourish and repair the appearance of damaged hair", "Keratin Actives help repair damage deep inside hair" ,"Hair looks healthy, strong and more beautiful" ],
+    "variantImage": "https://d3o0ecz6febi2h.cloudfront.net/product_variances/images/2020/may/8/17/14806038-aa5b-43b4-80d9-41e53e92c8ad.lg.jpg"
+  }
+]

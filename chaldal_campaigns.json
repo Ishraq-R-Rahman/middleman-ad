@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "602239bc5dcf9b05b60efd12",
+    "brand": "Dove",
+    "bannerImage": "https://cdn.chaldal.net/_mpimage/dove-shampoo-oxygen-moisture-340-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D59450&q=low&v=1&w=600",
+    "video": "https://youtu.be/ljlohvSJv8E",
+    "productName": "Dove Shampoo Oxygen Moisture",
+    "logo": "https://brandslogos.com/wp-content/uploads/thumbs/dove-logo-vector-2.svg",
+    "placement": "www.dummy.com"
+  },
+  {
+    "_id": "602239bc5dcf9b05b60efd13",
+    "brand": "Dove",
+    "bannerImage": "https://images-na.ssl-images-amazon.com/images/I/51EmuHFRNSL._SX466_.jpg",
+    "video": "https://youtu.be/IK10DVSu3uQ",
+    "productName": "Dove Shampoo Oxygen Moisture",
+    "logo": "https://brandslogos.com/wp-content/uploads/thumbs/dove-logo-vector-2.svg",
+    "placement": "www.dummy.com"
+  },
+  {
+    "_id": "602239bc5dcf9b05b60efd14",
+    "brand": "Dove",
+    "bannerImage": "https://images-na.ssl-images-amazon.com/images/I/51RDcB7Sf3L._SL1000_.jpg",
+    "video": "https://youtu.be/PT9fiiPx1-s",
+    "productName": "Dove Conditioner Intense Repair",
+    "logo": "https://brandslogos.com/wp-content/uploads/thumbs/dove-logo-vector-2.svg",
+    "placement": "www.dummy.com"
+  }
+]
